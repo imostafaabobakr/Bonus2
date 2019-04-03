@@ -1,0 +1,70 @@
+/*@Author : Mostafa Abobakr*/
+body
+{
+	background-color: white;
+}
+#maindiv
+{
+
+	margin: 20px 60px 20px 60px;
+}
+#first
+{
+	border: 5px solid #0c99a2;
+	border-radius: 20px;
+	color: #0c99a2;
+	background-color: #9ae0e0;
+	display:inline-block;
+	padding-right: 10px;
+overflow: hidden;
+float: left;
+	margin-top: 20px;
+
+}
+#cover
+{
+	background-color: #a8f0ef;
+	padding: 0px 8px 0px 8px;
+	color: #0c99a2;
+	text-align: right;
+
+}
+.news
+{
+display:inline-block;
+overflow: hidden;
+float: right;
+background-color: #e8fafa;
+	border: 3px solid #c4e8e8;
+	border-radius: 10px;
+	width: 80%;
+	padding: 8px;
+	margin-top: 20px;
+
+}
+.newsText
+{
+display:inline-block;
+overflow: hidden;
+float: left;
+	color: #0c99a2;
+}
+.date
+{
+	border-bottom: 2px dashed #0c99a2;
+	 text-decoration: none; 
+	 display:inline-block;
+overflow: hidden;
+}
+.textt
+{
+	display:inline-block;
+overflow: hidden;
+}
+.newsImage
+{
+display:inline-block;
+overflow: hidden;
+float: right;
+margin-top: 30px;
+}
